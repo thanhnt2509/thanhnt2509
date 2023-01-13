@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @thanhnt2509
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- <h1 align="center">👋 Hi, I’m @thanhnt2509</h1> -->
+<h1>👋 Hi, I’m @thanhnt2509</h1>
 
-<!---
-thanhnt2509/thanhnt2509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I currently study **Software Engineering** at **FPTU**
+- 🤔 I’m currently learning **C#, SpringBoot**
+- 🔗 How to reach me <a href="https://www.facebook.com/thanhnt259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhnt259" height="20" width="20" /></a>
+
+
+
