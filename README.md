@@ -51,7 +51,7 @@
 <p>
 <a href="https://fb.com/thanhnt259" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhnt259 | fb" height="40" width="40" /></a>
 <a href="mailto:truongthanh717@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="truongthanh717 | mail" height="40" width="40" /></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="my_linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/thanh-nguyen-truong-874239267/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tnt-exe | linkedin" height="40" width="40" /></a>
 <a href="https://devfolio.co/@tntexe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/dev.png" alt="tnt-exe | devfolio" height="40" width="40"/></a>
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tnt-exe/tnt-exe.github.io/main/resources/assets/cv/myCV.pdf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/resume.png" alt="tnt-exe | resume" height="40" width="40"/></a>
 </p>
