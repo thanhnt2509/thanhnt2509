@@ -41,7 +41,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnt-exe&show_icons=true&locale=en&layout=compact&langs_count=8" alt="tnt-exe" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnt-exe&show_icons=true&locale=en" alt="tnt-exe" />
 </div>
+<div align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-exe" alt="tnt-exe" />
+</div>
 
 
 <!-- Connect with me -->
