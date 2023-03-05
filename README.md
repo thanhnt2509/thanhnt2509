@@ -7,11 +7,11 @@
 
 <h3 align="left">About myself:</h3>
 
-- 🎓 I am studing **Software Engineering** at **FPTU - HCMC**
-- 🔭 I’m currently working on [SWP391](https://github.com/tnt-exe/SWP391_FPT_miniproject)
-- 🧐 I’m currently learning **C#, NodeJS**
+- 🎓 I am studing **Software Engineering** at **FPTU - HCMC**, currently at Semester 5/9
+- 🔭 I’m working on [SWP391](https://github.com/tnt-exe/SWP391_FPT_miniproject) - a mini project using Node, Express, and Vue
+- 🧐 I’m also trying to learn **NodeJS** and **C# .NET** at the same time
 - 👀 Check out my web portfolio at [tnt-exe.github.io](https://tnt-exe.github.io/)
-- 🐳Btw, I'm looking for an internship opportunities in Java or .NET backend position 
+- 🐳Btw, I'm looking for an internship opportunities in Java, .NET or JS in backend position, so if you have any, please [📞contact](https://github.com/tnt-exe?tab=overview#connect-with-me) me
 
 
 
