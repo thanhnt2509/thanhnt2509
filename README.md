@@ -12,7 +12,7 @@
 - 🧐 I’m also trying to learn **NodeJS** and **C# .NET** at the same time
 - 👀 Check out my web portfolio at [tnt-exe.github.io](https://tnt-exe.github.io/)
 - 🐳Btw, I'm seeking for an internship opportunities in Java, .NET or JS in backend position 
-- 👉[📞contact](https://github.com/tnt-exe?tab=overview#connect-with-me) me📞
+- 👉[📞contact](#connect-with-me) me📞
 
 
 
