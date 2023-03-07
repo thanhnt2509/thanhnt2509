@@ -11,7 +11,7 @@
 - 🔭 I’m working on [SWP391](https://github.com/tnt-exe/SWP391_FPT_miniproject) - a mini project using Node, Express, and Vue
 - 🧐 I’m also trying to learn **NodeJS** and **C# .NET** at the same time
 - 👀 Check out my web portfolio at [tnt-exe.github.io](https://tnt-exe.github.io/)
-- 🐳 Btw, I'm seeking for an internship opportunities in Java, .NET or JS in backend position 
+- 🐳 Btw, I'm seeking for an internship opportunities in Java, .NET or JS in back-end position 
 - 🙋‍♂️ For further infomation, you can [📞contact](#connect-with-me) me📞
 
 
@@ -96,7 +96,7 @@
 <!-- Gmail -->
 <a href="mailto:truongthanh717@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="truongthanh717 | mail" height="40" width="40" /></a>
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/thanh-nguyen-truong-874239267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tnt-exe | linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/tnt-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tnt-exe | linkedin" height="40" width="40" /></a>
 <!-- Devfolio -->
 <a href="https://devfolio.co/@tntexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/dev.png" alt="tnt-exe | devfolio" height="40" width="40"/></a>
 <!-- Resume -->
