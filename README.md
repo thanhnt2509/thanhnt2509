@@ -11,8 +11,8 @@
 - 🔭 I’m working on [SWP391](https://github.com/tnt-exe/SWP391_FPT_miniproject) - a mini project using Node, Express, and Vue
 - 🧐 I’m also trying to learn **NodeJS** and **C# .NET** at the same time
 - 👀 Check out my web portfolio at [tnt-exe.github.io](https://tnt-exe.github.io/)
-- 🐳Btw, I'm seeking for an internship opportunities in Java, .NET or JS in backend position 
-- 👉[📞contact](#connect-with-me) me📞
+- 🐳 Btw, I'm seeking for an internship opportunities in Java, .NET or JS in backend position 
+- 🙋‍♂️ For further infomation, you can [📞contact](#connect-with-me) me📞
 
 
 
@@ -100,5 +100,5 @@
 <!-- Devfolio -->
 <a href="https://devfolio.co/@tntexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/dev.png" alt="tnt-exe | devfolio" height="40" width="40"/></a>
 <!-- Resume -->
-<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tnt-exe/tnt-exe.github.io/main/resources/assets/cv/myCV.pdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/resume.png" alt="tnt-exe | resume" height="40" width="40"/></a>
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tnt-exe/tnt-exe.github.io/main/resources/assets/cv/NguyenTruongThanh-BackendInternCV.pdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/resume.png" alt="tnt-exe | resume" height="40" width="40"/></a>
 </p>
