@@ -7,7 +7,7 @@
 
 <h3 align="left">About myself:</h3>
 
-- 🎓 I am studing **Software Engineering** at **FPTU - HCMC**, currently at Semester 5/9
+- 🎓 I am studying **Software Engineering** at **FPTU - HCMC**, currently at Semester 5/9
 - 🔭 I’m working on [SWP391](https://github.com/tnt-exe/SWP391_FPT_miniproject) - a mini project using Node, Express, and Vue
 - 🧐 I’m also trying to learn **NodeJS** and **C# .NET** at the same time
 - 👀 Check out my web portfolio at [tnt-exe.github.io](https://tnt-exe.github.io/)
