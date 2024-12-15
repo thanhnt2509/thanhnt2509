@@ -3,7 +3,7 @@
 
   <div align="center">
     <code><img height="20" alt="windows11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></code>
-    <code><img height="20" alt="android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></code>
+    <code><img height="20" alt="android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
   </div>
 
   <div align="center">
