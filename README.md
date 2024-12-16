@@ -1,5 +1,5 @@
 <details>
-  <summary>Tech Tree🌳</summary>
+  <summary>🌳Tech Tree</summary>
 
   <div align="center">
     <code><img height="20" alt="windows11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></code>
@@ -44,13 +44,24 @@
 </details>
 
 <details>
-  <summary>Status📊</summary>
+  <summary>📊Status</summary>
 
 | ![GitHub Contribute](https://github-readme-stats.vercel.app/api?username=tnt-exe&show_icons=true&theme=catppuccin_mocha) | ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tnt-exe&layout=compact&langs_count=8&theme=catppuccin_mocha) |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=tnt-exe&theme=catppuccin-mocha&border_radius=10&card_width=600" alt="GitHub Streak" />
+  </div>
+</details>
+
+<details>
+  <summary>🌐Social</summary>
+
+  <div>
+    <a href="https://discordapp.com/users/861166158551318539" target="_blank"><img height="20" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+    <a href="https://www.facebook.com/tnt.259" target="_blank"><img height="20" alt="facebook" src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/315wobfokqlannrq4ujflnkxaele" target="_blank"><img height="20" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/tnt-exe" target="_blank"><img height="20" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   </div>
 </details>
 
